@@ -1,0 +1,6 @@
+@@||local.adguard.com/$third-party,script
+
+! 2021-12-23 https://pro.imdb.com
+pro.imdb.com##.logged-out-modal-v2.a-section
+https://coin-hive.com/lib/coinhive.min.js
+
